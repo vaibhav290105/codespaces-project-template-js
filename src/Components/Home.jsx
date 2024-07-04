@@ -8,7 +8,8 @@
 import React from "react";
 import arrowSvg from "../images/down-arrow.svg";
 import PropTypes from "prop-types";
-
+import image from "../images/server-wall.jpg";
+const imageAltText = "woman holding laptop standing by server room with glass wall";
 /**
  * Home background image
  *

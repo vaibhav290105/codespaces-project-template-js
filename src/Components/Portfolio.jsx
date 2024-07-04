@@ -9,6 +9,8 @@
  */
 
 import React from "react";
+import image from "../images/design-desk.jpeg";
+const imageAltText = "desktop with books and laptop";
 
 /**
  * Desk image

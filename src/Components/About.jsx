@@ -5,7 +5,8 @@
  */
 
 import React from "react";
-
+import image from "../images/mosaic.svg";
+const imageAltText = "purple and blue abstract background";
 /**
  * About background image
  *
